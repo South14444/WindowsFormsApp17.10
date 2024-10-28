@@ -1,0 +1,2 @@
+﻿select ColorOfTea
+from TypeOfTea
